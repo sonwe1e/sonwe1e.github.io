@@ -1,0 +1,9 @@
+# GitHub Pages configuration
+title: Richard Zhang - Research Scientist
+description: Personal academic website
+baseurl: ""
+url: "https://sonwe1e.github.io"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
